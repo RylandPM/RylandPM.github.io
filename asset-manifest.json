@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ae83e8f3.chunk.css",
+    "main.js": "/static/js/main.c4230d21.chunk.js",
+    "main.js.map": "/static/js/main.c4230d21.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.75293adf.chunk.js": "/static/js/2.75293adf.chunk.js",
+    "static/js/2.75293adf.chunk.js.map": "/static/js/2.75293adf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf58f8cbc6e7d6dc3893c343ef427c8d.js": "/precache-manifest.bf58f8cbc6e7d6dc3893c343ef427c8d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ae83e8f3.chunk.css.map": "/static/css/main.ae83e8f3.chunk.css.map",
+    "static/media/CriticalFailDemo.png": "/static/media/CriticalFailDemo.9432d62d.png",
+    "static/media/App.css": "/static/media/verticalImage.9f9d3943.jpg",
+    "static/media/Nota-POSDemo.png": "/static/media/Nota-POSDemo.72453d87.png"
+  }
+}
